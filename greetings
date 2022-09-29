@@ -4,3 +4,11 @@ if (hrs < 12)
         greet = 'Good Afternoon Busonma';
     else if (hrs >= 17 && hrs <= 24)
         greet = 'Good Evening Busonma';
+.card {
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+    background: #F6D9EE;
+    color: #fff;
+    display: inline-block;
+    box-shadow: 2px 2px 1px 0px #295C7B;
+}
